@@ -1,0 +1,17 @@
+.vscode/
+.idea/
+
+*.tfvars
+*.tfvars.json
+
+*.tfstate
+*.tfstate.*
+
+crash.log
+crash.*.log
+
+.terraform/
+.terraform.lock.hcl
+
+*.tfplan
+
